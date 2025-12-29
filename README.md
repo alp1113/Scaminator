@@ -126,6 +126,7 @@ UI/UX design, Streamlit frontend, Chrome extension interface
 	•	Utku Erdoğanaras
 Prompt engineering, controller-agent calibration, Trendyol scraping
 
+Supervisor: Dr. Murat Karakaya
 
  Evaluation Highlights
 	•	Target accuracy: ≥ 90% on mixed real/fraudulent listings
@@ -142,7 +143,7 @@ Prompt engineering, controller-agent calibration, Trendyol scraping
 
 
  Course Information
-	•	Course: SENG472 – Term Project
+	•	Course: SENG472 – Term Project, under the supervision of Dr. Murat Karakaya
 	•	Project Title: E-Commerce Fraud Detector (Scaminator)
 	•	Submission Date: June 10, 2025
 
