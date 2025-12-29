@@ -8,7 +8,6 @@ from .crawl4ai_agent import Crawl4AIAgent
 from .akakce_scraper import scrape_prices
 import google.generativeai as genai
 
-# --- CONFIGURATION (Ensure this uses GOOGLE_API_KEY for consistency if possible) ---
 load_dotenv()
 
 API_KEY = os.getenv("GOOGLE_API_KEY") 
