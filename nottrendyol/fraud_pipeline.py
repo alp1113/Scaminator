@@ -10,8 +10,8 @@ import google.generativeai as genai
 
 # --- CONFIGURATION (Ensure this uses GOOGLE_API_KEY for consistency if possible) ---
 load_dotenv()
-# Consider standardizing your API key name across the project, e.g., GOOGLE_API_KEY
-API_KEY = os.getenv("GOOGLE_API_KEY") # Or GOOGLE_API_KEY if you standardize
+
+API_KEY = os.getenv("GOOGLE_API_KEY") 
 if not API_KEY:
     raise ValueError("API key for nottrendyol pipeline not found. Please set GEMINI_API_KEY (or GOOGLE_API_KEY if standardized).")
 
